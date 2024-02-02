@@ -1,2 +1,3 @@
-# MicrosoftOrleans_OrleanBasics
- Laboratorio Virtualización - Conceptos básicos de Orleans
+# Labotarorio Microsoft Orleans: Orleans Basics - Virtualización
+
+- Diego Morales - 1132119
